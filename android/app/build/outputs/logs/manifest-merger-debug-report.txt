@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/ad9dc651871a856923b922fd0c5f7e9a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e542ee871883d8dde9dfe9b20c43a6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5d63db9c7e29c742bf276d047693991b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e310e3ffe4073950eae07fcb07320c51/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c7e4c32599a0881771d9146daad7a00d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe4bc558d326fe09b62e758ca1861b8f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4c9f127f58b3183a39c8d78518bd0e3b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/daa3b516e240ffea3e412ee7fa2353ce/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5f91d8108031ebf2b796acea95c21eb3/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/08b120103e80a3189c70e3942d4e66b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb956ca0d0047118835bde612276bced/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e143a33890ee303f1bb14862352d9e69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b002c04aa6ddadde3a3228f3649f88d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3cb23535fbcc7b5b87c683f98a67b21f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d45aa1b4c7293533d0b166586273d2cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ef4c30de31e379d2a1f50b6d493e51e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2622a1fa8f556468f19a944c60951671/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4728aebc0995607cb8760779989c3c22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f541d9e26420a740efca3a850f74f96/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbcabc9ed476bb1e8093bc2cf21b2067/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+MERGED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/ad9dc651871a856923b922fd0c5f7e9a/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/ad9dc651871a856923b922fd0c5f7e9a/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/ad9dc651871a856923b922fd0c5f7e9a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/ad9dc651871a856923b922fd0c5f7e9a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/daa3b516e240ffea3e412ee7fa2353ce/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/daa3b516e240ffea3e412ee7fa2353ce/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5f91d8108031ebf2b796acea95c21eb3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5f91d8108031ebf2b796acea95c21eb3/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.foodapp.MainActivity
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/ad9dc651871a856923b922fd0c5f7e9a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/ad9dc651871a856923b922fd0c5f7e9a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e542ee871883d8dde9dfe9b20c43a6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e542ee871883d8dde9dfe9b20c43a6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5d63db9c7e29c742bf276d047693991b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/5d63db9c7e29c742bf276d047693991b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e310e3ffe4073950eae07fcb07320c51/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e310e3ffe4073950eae07fcb07320c51/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c7e4c32599a0881771d9146daad7a00d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c7e4c32599a0881771d9146daad7a00d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe4bc558d326fe09b62e758ca1861b8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/fe4bc558d326fe09b62e758ca1861b8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4c9f127f58b3183a39c8d78518bd0e3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4c9f127f58b3183a39c8d78518bd0e3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/daa3b516e240ffea3e412ee7fa2353ce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/daa3b516e240ffea3e412ee7fa2353ce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/08b120103e80a3189c70e3942d4e66b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/08b120103e80a3189c70e3942d4e66b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb956ca0d0047118835bde612276bced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb956ca0d0047118835bde612276bced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e143a33890ee303f1bb14862352d9e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e143a33890ee303f1bb14862352d9e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b002c04aa6ddadde3a3228f3649f88d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b002c04aa6ddadde3a3228f3649f88d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3cb23535fbcc7b5b87c683f98a67b21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3cb23535fbcc7b5b87c683f98a67b21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d45aa1b4c7293533d0b166586273d2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d45aa1b4c7293533d0b166586273d2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ef4c30de31e379d2a1f50b6d493e51e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ef4c30de31e379d2a1f50b6d493e51e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2622a1fa8f556468f19a944c60951671/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2622a1fa8f556468f19a944c60951671/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4728aebc0995607cb8760779989c3c22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4728aebc0995607cb8760779989c3c22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f541d9e26420a740efca3a850f74f96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f541d9e26420a740efca3a850f74f96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbcabc9ed476bb1e8093bc2cf21b2067/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbcabc9ed476bb1e8093bc2cf21b2067/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from [:react-native-voice] /Users/Shaggy/Documents/foodapp/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/Shaggy/Documents/foodapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
